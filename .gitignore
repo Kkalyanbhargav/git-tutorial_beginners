@@ -2,3 +2,6 @@ db.sql
 passwords.txt
 *.log
 about.html
+node_modules/
+about.html~
+imp.log
